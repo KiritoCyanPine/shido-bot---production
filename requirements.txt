@@ -3,5 +3,4 @@ Flask
 asyncio
 beautifulsoup4
 Pillow
-PIL
 lxml
