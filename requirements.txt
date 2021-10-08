@@ -1,7 +1,7 @@
 discord
 Flask
 asyncio
-beautifulsoup
+beautifulsoup4
 Pillow
 PIL
 lxml
