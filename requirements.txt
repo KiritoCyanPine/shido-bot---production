@@ -4,3 +4,4 @@ asyncio
 beautifulsoup4
 Pillow
 lxml
+gunicorn
